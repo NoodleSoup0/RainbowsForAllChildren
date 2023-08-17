@@ -1,0 +1,9 @@
+{
+  "expoServerNgrokUrl": "https://vf-hhe.linhly.rainbowsforchildren.exp.direct",
+  "packagerNgrokUrl": "https://vf-hhe.linhly.rainbowsforchildren.exp.direct",
+  "ngrokPid": 40536,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
